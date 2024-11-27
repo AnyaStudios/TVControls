@@ -1,7 +1,7 @@
 import discord
 from config import DISCORD_CHANNEL_ID
 
-DISCORD_TOKEN = "MTMwMTU2MzE4NjIwMTM2NjU0OA.GCyqMj.ymxmNoZ0F92pDG9dXKIVd-xmRcGTKBU2Gk216o"
+DISCORD_TOKEN = ""
 DISCORD_CHANNEL_ID = 1268870801902407747
 
 intents = discord.Intents.default()
