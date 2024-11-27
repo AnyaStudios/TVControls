@@ -5,8 +5,3 @@ backend/commands/__pycache__
 backend/module/__pycache__
 backend/__pycache__
 bot.py
-
-# FRONTEND
-frontend/
-frontend/node_modules
-frontend/.svelte-kit
