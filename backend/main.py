@@ -16,7 +16,7 @@ async def main():
     await asyncio.gather(
         twitch_bot.start(),
         twitch_bot.check_twitch_status(),
-        discord_client.start("MTMwMTU2MzE4NjIwMTM2NjU0OA.GCyqMj.ymxmNoZ0F92pDG9dXKIVd-xmRcGTKBU2Gk216o")
+        discord_client.start("")
     )
 
 if __name__ == "__main__":
