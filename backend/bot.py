@@ -4,7 +4,7 @@ import importlib
 
 class Bot(commands.Bot):
     def __init__(self):
-        super().__init__(token="i7y1ffvzk0fzdx7pwuxfe1bu3e579a", prefix="!", initial_channels=["tvcontrols"])
+        super().__init__(token="", prefix="!", initial_channels=["tvcontrols"])
         self.load_commands()
 
         # Dictionary on storing the help messages for all commands
